@@ -3310,7 +3310,7 @@ var MousyModule = function () {
         this.rotation = opt.rotation || 10.0;
         this.parallax = {
             enabled: true,
-            distance: 3,
+            distance: 10,
             scale: 1
         };
     }
